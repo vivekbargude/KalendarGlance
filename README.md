@@ -76,13 +76,6 @@ Open the project in Android Studio Arctic Fox or later with **Kotlin 1.9+** and 
  └── app_widget_provider.xml
 ```
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙌 Acknowledgments
 
