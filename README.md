@@ -76,7 +76,7 @@ Open the project in Android Studio Arctic Fox or later with **Kotlin 1.9+** and 
  └── app_widget_provider.xml
 ```
 
-
+---
 ## 🙌 Acknowledgments
 
 * Jetpack Glance by Android Team
