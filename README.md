@@ -41,7 +41,7 @@ KalendarGlance is a minimal, glanceable calendar widget built using **Jetpack Co
 git clone https://github.com/vivekbargude/KalendarGlance.git
 cd KalendarGlance
 ````
-
+---
 ### Open in Android Studio
 
 Open the project in Android Studio Arctic Fox or later with **Kotlin 1.9+** and **Jetpack Glance** dependencies properly configured.
