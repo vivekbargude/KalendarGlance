@@ -18,13 +18,18 @@ KalendarGlance is a minimal, glanceable calendar widget built using **Jetpack Co
 
 ## 🖼️ Widget Preview
 
-### 🌞 Light Mode
-
-<img src="images/widget_light.png" width="300" alt="KalendarGlance Light Mode" />
-
-### 🌚 Dark Mode
-
-<img src="images/widget_dark.png" width="300" alt="KalendarGlance Dark Mode" />
+<table>
+  <tr>
+    <td align="center">
+      🌞 <strong>Light Mode</strong><br><br>
+      <img src="images/widget_light.png" width="240" alt="KalendarGlance Light Mode"/>
+    </td>
+    <td align="center">
+      🌚 <strong>Dark Mode</strong><br><br>
+      <img src="images/widget_dark.png" width="240" alt="KalendarGlance Dark Mode"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,11 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-
-
-- If you're hosting on GitHub, just make sure the image paths exist, or use full image URLs (e.g., uploaded to GitHub issues or a CDN).
-
----
-
-Let me know if you want a GitHub-ready template or auto-generate the images via markdown!
-```
